@@ -32,6 +32,8 @@ npm install ha-geometry-technical-challenge
 
 ## Demo
 
+ScreenCapture.png
+
 [HA Engineering Challenge](https://ha-geometry-technical-challenge.netlify.app/)
 
 ## License
