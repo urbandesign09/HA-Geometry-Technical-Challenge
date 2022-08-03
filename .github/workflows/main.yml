@@ -1,8 +1,8 @@
 name: HA-Technical-Challenge
 
 on:
-  release:
-    types: [created]
+  push:
+    branches: -master
 
 jobs:
   build:
@@ -27,7 +27,7 @@ jobs:
         with:
           node-version: 12
           registry-url: https://npm.pkg.github.com/
-          scope: '@urbandesign09'
+          scope: "@urbandesign09"
       - run: npm ci
       - run: npm publish
         env:
