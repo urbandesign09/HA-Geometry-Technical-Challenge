@@ -24,7 +24,7 @@ Given a set of vertices connected by edges, provided in a JSON data structure, w
 
 ## Demo
 
-[HA Engineering Challenge](https://ha-computational-engineering-challenge.netlify.app/)
+[HA Engineering Challenge](https://ha-geometry-technical-challenge.netlify.app/)
 
 ## License
 
