@@ -18,6 +18,12 @@ Given a set of vertices connected by edges, provided in a JSON data structure, w
 
 ## Installation
 
+Use the package manager npm to install file.
+
+```
+npm install ha-geometry-technical-challenge
+```
+
 ## Usage
 
 ```javascript
