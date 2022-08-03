@@ -16,6 +16,8 @@ Given a set of vertices connected by edges, provided in a JSON data structure, w
 
 ## File Structure
 
+## Installation
+
 ## Usage
 
 ```javascript
