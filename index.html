@@ -1,0 +1,71 @@
+<!--Higharc Technical Challenge-->
+<!--Edbert Cheng-->
+<!--July 29, 2022-->
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Computational Geometry Engineering Challenge</title>
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://cdn.rawgit.com/mochajs/mocha/2.2.5/mocha.css" rel="stylesheet" />
+</head>
+<body>
+
+<!--Title & Heading-->
+<img 
+  src="assets/higharc-logo-transparent.png" alt="Higharc Logo"
+  height="50"
+>
+<h1>Computational Geometry Engineering Challenge</h1>
+<p>
+<b>Task 3</b>: Write a simple HTML page that presents the output of algorithm 1. Consider using SVG,
+Canvas, or WebGL. The page should display the faces using unique colors. This part of
+the challenge is simply to display that you’ve completed the project.
+</p>
+
+<!--JSON Input-->
+<h2>Data Input</h2>
+<h4>Vertices & Edges JSON</h4>
+<label class="label">Data</label>
+<input class="input" type="text" id="data-input"
+placeholder="e.g. {'vertices': [[0,0], [2,0], [2,2], [0,2]],
+  'edges': [[0,1], [1,2], [0,2], [0,3], [2,3]]}" name="data">
+<button class="button" id="data-btn"">Enter</button>
+
+<!--JSON Output-->
+<h2>Data Output</h2>
+<h4>Faces JSON</h4>
+<div id="result-placeholder">Solution JSON text here</div>
+
+<!--Canvas Output-->
+<h4>Faces Canvas</h4>
+<canvas class="canvas" id="myCanvas" width="400" height="400">
+Your browser does not support the HTML canvas tag.</canvas>
+
+<!--JAVASCRIPT-->
+<!--Testing Boilerplate-->
+<div id="mocha"></div>
+<script src="https://unpkg.com/chai/chai.js"></script>
+<script src="https://unpkg.com/mocha/mocha.js"></script>
+
+<!--Scripts-->
+<!--Front-End-->
+<script src="index.js"></script>
+<script src="script.js"></script>
+
+<script>
+  //testing
+  const mocha = window.mocha;
+  mocha.setup('bdd');
+</script>
+<script src="tests.js"></script>
+<script>
+  //testing
+  mocha.checkLeaks();
+  mocha.run();
+</script>
+
+</body>
+</html>
