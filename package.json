@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/urbandesign09/HA-Geometry-Technical-Challenge/issues"
   },
+  "publishConfig": {
+    "@urbandesign09:registry":"https://npm.pkg.github.com"
+  },
   "homepage": "https://github.com/urbandesign09/HA-Geometry-Technical-Challenge#readme"
 }
