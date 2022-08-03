@@ -32,7 +32,7 @@ npm install ha-geometry-technical-challenge
 
 ## Demo
 
-ScreenCapture.png
+![Screen Capture](/assets/ScreenCapture.png)
 
 [HA Engineering Challenge](https://ha-geometry-technical-challenge.netlify.app/)
 
