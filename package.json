@@ -22,7 +22,7 @@
     "url": "https://github.com/urbandesign09/HA-Geometry-Technical-Challenge/issues"
   },
   "publishConfig": {
-    "@urbandesign09:registry":"https://npm.pkg.github.com"
+    "registry":"https://npm.pkg.github.com/@urbandesign09"
   },
   "homepage": "https://github.com/urbandesign09/HA-Geometry-Technical-Challenge#readme"
 }
