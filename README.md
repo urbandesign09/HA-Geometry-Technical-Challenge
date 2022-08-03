@@ -18,7 +18,7 @@ Given a set of vertices connected by edges, provided in a JSON data structure, w
 
 ## Installation
 
-Use the package manager npm to install file.
+Use the package manager [npm](https://www.npmjs.com/) to install file.
 
 ```
 npm install ha-geometry-technical-challenge
@@ -31,8 +31,6 @@ npm install ha-geometry-technical-challenge
 ```
 
 ## Demo
-
-![Screen Capture](/assets/Screenshot.png)
 
 [HA Engineering Challenge](https://ha-geometry-technical-challenge.netlify.app/)
 
