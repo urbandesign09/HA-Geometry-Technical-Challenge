@@ -1,0 +1,25 @@
+{
+  "name": "ha-geometry-technical-challenge",
+  "version": "1.0.0",
+  "description": "Solution to the Computational Geometry Engineer Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urbandesign09/HA-Geometry-Technical-Challenge.git"
+  },
+  "keywords": [
+    "DCEL",
+    "Geometry",
+    "Computational",
+    "Geometry"
+  ],
+  "author": "Edbert Cheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urbandesign09/HA-Geometry-Technical-Challenge/issues"
+  },
+  "homepage": "https://github.com/urbandesign09/HA-Geometry-Technical-Challenge#readme"
+}
