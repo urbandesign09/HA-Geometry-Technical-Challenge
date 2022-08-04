@@ -8,6 +8,7 @@ Solution to the Computational Geometry Engineer Challenge
 - [File Structure](#file-structure)
 - [Usage](#usage)
 - [Demo](#demo)
+- [Reference](#reference)
 - [License](#license)
 
 ## General info
@@ -33,6 +34,11 @@ npm install ha-geometry-technical-challenge
 ## Demo
 
 [HA Engineering Challenge](https://ha-geometry-technical-challenge.netlify.app/)
+
+## Reference
+
+[DCEL Structure](https://en.wikipedia.org/wiki/Doubly_connected_edge_list#:~:text=The%20doubly%20connected%20edge%20list,plane%2C%20and%20polytopes%20in%203D.)
+[Convex Hull Problem - Sample in Java](https://bitbucket.org/StableSort/play/src/master/src/com/stablesort/convexhull/ConvexHullGrahamScan.java)
 
 ## License
 
