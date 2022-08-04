@@ -38,6 +38,7 @@ npm install ha-geometry-technical-challenge
 ## Reference
 
 [DCEL Structure](https://en.wikipedia.org/wiki/Doubly_connected_edge_list#:~:text=The%20doubly%20connected%20edge%20list,plane%2C%20and%20polytopes%20in%203D.)
+
 [Convex Hull Problem - Sample in Java](https://bitbucket.org/StableSort/play/src/master/src/com/stablesort/convexhull/ConvexHullGrahamScan.java)
 
 ## License
