@@ -31,6 +31,7 @@ project
 │   │   frontEnd.js (Front End)
 │   │   index.js (Algorithm #1 Solution)
 │   │   tests.js (Algorithm #1 Tests)
+│   │   neighborFace.js (Algorithm #2)
 │
 └───images
 └───styles
