@@ -40,6 +40,9 @@ project
 
 ```javascript
 
+import ha-geometry-technical-challenge
+
+
 ```
 
 ## Installation
