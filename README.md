@@ -17,6 +17,20 @@ Given a set of vertices connected by edges, provided in a JSON data structure, w
 
 ## File Structure
 
+```
+project
+│   README.md
+|   index.html (Web Page)
+│
+└───scripts
+│   │   frontEnd.js (Front End)
+│   │   index.js (Algorithm #1 Solution)
+│   │   tests.js (Algorithm #1 Tests)
+│
+└───images
+└───styles
+```
+
 ## Installation
 
 Use the package manager [npm](https://www.npmjs.com/) to install file.
