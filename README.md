@@ -40,7 +40,21 @@ project
 
 ```javascript
 
-import ha-geometry-technical-challenge
+import ha-geometry-technical-challenge as gtc
+
+//input
+const inputJSON = {
+  "vertices": [[0,0], [2,0], [2,2], [0,2]],
+  "edges": [[0,1], [1,2], [0,2], [0,3], [2,3]]}
+
+//output
+const outputJSON = {
+  {"name":"Face 1","vertices":[[2,0],[0,0],[2,2]],"edges":[[1,0],[0,2],[2,1]]},
+  {"name":"Face 2","vertices":[[2,2],[0,0],[0,2]],"edges":[[2,0],[0,3],[3,2]]}
+}
+
+//returns output
+gtc.textData(input)
 
 
 ```
