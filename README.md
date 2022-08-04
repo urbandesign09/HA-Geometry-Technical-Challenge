@@ -8,6 +8,7 @@ Solution to the Computational Geometry Engineer Challenge
 - [File Structure](#file-structure)
 - [Usage](#usage)
 - [Demo](#demo)
+- [Installation](#installation)
 - [Reference](#reference)
 - [License](#license)
 
@@ -31,14 +32,6 @@ project
 └───styles
 ```
 
-## Installation
-
-Use the package manager [npm](https://www.npmjs.com/) to install file.
-
-```
-npm install ha-geometry-technical-challenge
-```
-
 ## Usage
 
 ```javascript
@@ -48,6 +41,14 @@ npm install ha-geometry-technical-challenge
 ## Demo
 
 [HA Engineering Challenge](https://ha-geometry-technical-challenge.netlify.app/)
+
+## Installation
+
+Use the package manager [npm](https://www.npmjs.com/) to install file.
+
+```
+npm install ha-geometry-technical-challenge
+```
 
 ## Reference
 
