@@ -5,9 +5,9 @@ Solution to the Computational Geometry Engineer Challenge
 ## Table of Contents
 
 - [General Info](#general-info)
+- [Demo](#demo)
 - [File Structure](#file-structure)
 - [Usage](#usage)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Reference](#reference)
 - [License](#license)
@@ -15,6 +15,10 @@ Solution to the Computational Geometry Engineer Challenge
 ## General info
 
 Given a set of vertices connected by edges, provided in a JSON data structure, write an algorithm that finds all of the interior faces (polygons) of such a data structure. The output schema should be a simple JSON format.
+
+## Demo
+
+[HA Engineering Challenge](https://ha-geometry-technical-challenge.netlify.app/)
 
 ## File Structure
 
@@ -37,10 +41,6 @@ project
 ```javascript
 
 ```
-
-## Demo
-
-[HA Engineering Challenge](https://ha-geometry-technical-challenge.netlify.app/)
 
 ## Installation
 
