@@ -17,6 +17,7 @@ complexity of your implementation.
  *Pseudocode Solution 
  *Iterate through Algo #1 Solution to identify if faces share half-edge twins with each other. 
  *For each face, identify if edges share between (while keeping time complexity 0(n) down)
+ *If possible, use a map instead of an array to "find" half-edge twins
  *Add a new object attribute to identify neighboring faces to each face object
 **/
 
